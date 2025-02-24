@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.hellotoast"
+    namespace = "com.example.hellotoastchallenge"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.hellotoast"
+        applicationId = "com.example.hellotoastchallenge"
         minSdk = 24
         targetSdk = 35
         versionCode = 1
